@@ -1,0 +1,20 @@
+{
+  "name": "dapp",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "optimist": "^0.6.1",
+    "prompt": "^1.0.0",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-scripts": "1.0.14",
+    "solc": "^0.4.18",
+    "web3": "^1.0.0-beta.24"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
